@@ -125,6 +125,8 @@ footer {
 .right-sidebar {
     flex: 1;
     padding: 10px;
+    display: flex;
+
 }
 
 .right-sidebar h2 {
